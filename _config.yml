@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Heesu kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "KakaoTalk_Photo_2020-02-13-20-54-59.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I want to be amazing person! "
   location         : "Seoul"
   email            :
